@@ -1,1 +1,2 @@
-jnodify是browserify的一个插件，用于支持jnode的构建工具
+jnodify是jnode模块的构建工具。
+jnodify是browserify的一个插件。
