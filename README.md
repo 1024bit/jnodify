@@ -1,0 +1,1 @@
+jnodify是browserify的一个插件，用于支持jnode的构建工具
